@@ -2,7 +2,7 @@
 
 **Automatic Star Ratings for WordPress Posts**
 
-AUTO-SSRB is a practical WordPress integration workflow that connects an existing star-rating plugin, post custom fields, and a shared post template to automate rating display.
+AUTO-SSRB is a practical WordPress integration workflow that connects [Simple Star Rating Block](https://wordpress.org/plugins/simple-star-rating-block/), post custom fields, and a shared post template to automate star-rating display.
 
 Instead of manually inserting and configuring a rating block in every post, authors enter a rating in the post's custom field. The shared template then displays the corresponding stars automatically.
 
