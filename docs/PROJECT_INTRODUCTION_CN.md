@@ -1,4 +1,4 @@
-# AUTO-SSRB：WordPress 自动评分集成工作流程
+# AUTO-SSRB：基于 Simple Star Rating Block（SSRB）的 WordPress 自动评分集成工作流程
 
 ## 1. 项目简介
 

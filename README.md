@@ -24,7 +24,7 @@ The workflow aims to:
 The reference workflow consists of four steps:
 
 1. A rating value is stored in a WordPress post custom field.
-2. Simple Star Rating Block reads the custom-field value.
+2. Simple Star Rating Block (SSRB) reads the custom-field value.
 3. The rating block is configured in a shared single-post template.
 4. The template displays the rating automatically for each applicable post.
 
